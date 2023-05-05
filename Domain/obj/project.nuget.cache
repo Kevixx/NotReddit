@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v7kxySZqRl4sdbTI8FWdMTxbAs7Bdnhlyrsdf2g99bdqdEwkecOMf440rHpgC3lMulCkjZnPNFepm9oNZNGARA==",
+  "dgSpecHash": "u4m4l0UoOBpPRJf5I5K6RfOOdR08qHwUjT3F+Eaca/n6FjgBQSS3SHscCUXNeOWwHo0UsKgdStNwfRQMuOcSBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\kevob\\RiderProjects\\NotReddit\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevob\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
     "C:\\Users\\kevob\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.5\\microsoft.aspnetcore.metadata.7.0.5.nupkg.sha512",

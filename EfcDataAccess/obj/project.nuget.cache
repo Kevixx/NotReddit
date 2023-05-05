@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7edf5X5wIlrI+TAGWh+74EOXD1pPGhvwusHs93MF2ATjk5Ap1WN0HhstORv4La7nKsuoT2cB0s6SHCnY/xbEEw==",
+  "dgSpecHash": "HAR57VZEZcRupEDDV6vuFMXQaHfNwEHi5sm79tOn8uRutXVzF7+JpJQoRM9btCF77qHFwW2hi2uM1Pzcuek2wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\EfcDataAccess\\EfcDataAccess.csproj",
+  "projectFilePath": "C:\\Users\\kevob\\RiderProjects\\NotReddit\\EfcDataAccess\\EfcDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevob\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\kevob\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",

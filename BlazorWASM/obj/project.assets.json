@@ -346,11 +346,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\BlazorWASM\\BlazorWASM.csproj",
+      "projectUniqueName": "C:\\Users\\kevob\\RiderProjects\\NotReddit\\BlazorWASM\\BlazorWASM.csproj",
       "projectName": "BlazorWASM",
-      "projectPath": "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\BlazorWASM\\BlazorWASM.csproj",
+      "projectPath": "C:\\Users\\kevob\\RiderProjects\\NotReddit\\BlazorWASM\\BlazorWASM.csproj",
       "packagesPath": "C:\\Users\\kevob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\BlazorWASM\\obj\\",
+      "outputPath": "C:\\Users\\kevob\\RiderProjects\\NotReddit\\BlazorWASM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kevob\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -365,8 +365,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\HttpClients\\HttpClients.csproj": {
-              "projectPath": "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\HttpClients\\HttpClients.csproj"
+            "C:\\Users\\kevob\\RiderProjects\\NotReddit\\HttpClients\\HttpClients.csproj": {
+              "projectPath": "C:\\Users\\kevob\\RiderProjects\\NotReddit\\HttpClients\\HttpClients.csproj"
             }
           }
         }

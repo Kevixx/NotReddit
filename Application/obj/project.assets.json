@@ -327,11 +327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\kevob\\RiderProjects\\NotReddit\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\kevob\\RiderProjects\\NotReddit\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\kevob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\Application\\obj\\",
+      "outputPath": "C:\\Users\\kevob\\RiderProjects\\NotReddit\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kevob\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -346,8 +346,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\kevob\\RiderProjects\\RedditInspiration\\Domain\\Domain.csproj"
+            "C:\\Users\\kevob\\RiderProjects\\NotReddit\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\kevob\\RiderProjects\\NotReddit\\Domain\\Domain.csproj"
             }
           }
         }
